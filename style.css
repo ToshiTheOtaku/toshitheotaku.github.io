@@ -6,7 +6,7 @@ html{
 body
 {
     background-image: url(bg.jpg);
-    background-position: center;
+    background-position: top;
     background-size: cover;
     text-align: center;
 
@@ -20,7 +20,7 @@ body
 }
 .ass
 {
-    margin-top: 160px;
+    margin-top: 75px;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -30,19 +30,19 @@ body
 }
 h1{
     font-family: 'Fira Sans Condensed', sans-serif;
-    color: rgb(243, 243, 243);
+    color: rgb(0, 0, 0);
     font-size:100px
 }
 
 h2{
     font-family: 'Montserrat', sans-serif;
-    color: rgb(243, 243, 243);
+    color: rgb(0, 0, 0);
     font-size:60px;
 }
 
 h3{
     font-family: 'Lato', sans-serif;
-    color: rgb(243, 243, 243);
+    color: rgb(0, 0, 0);
 }
 
 header{
