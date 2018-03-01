@@ -12,6 +12,28 @@ body
 
     
 }
+a{
+    text-decoration: none;
+    color: black;
+}
+header h3{
+    float: center;
+    display: inline;
+    padding: 0 20px 0 20px;
+}
+.links
+{
+    border-bottom: 2px;
+    border-top: 2px;
+    border-top-color: black;
+    border-bottom-color: black;
+}
+
+a:hover {
+    color: rgb(70, 70, 70);
+    background-color: transparent;
+    text-decoration: none;
+}
 .container
 {
     position: relative;
